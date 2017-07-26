@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/newagesmb/.android/build-cache/5dffbb179a4eb370169ee40b08c3d9eb25de207b/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout-v21/notification_action.xml"
+    }
+]

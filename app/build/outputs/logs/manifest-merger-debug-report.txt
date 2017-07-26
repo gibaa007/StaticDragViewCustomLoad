@@ -1,0 +1,391 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/newagesmb/.android/build-cache/02f521db2ce922915fbdf62f15b954ad0004d90e/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/newagesmb/.android/build-cache/192f4664ab624dfe7992f2691ff5d00174b61e7c/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/newagesmb/.android/build-cache/02f521db2ce922915fbdf62f15b954ad0004d90e/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/newagesmb/.android/build-cache/192f4664ab624dfe7992f2691ff5d00174b61e7c/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:13:5-68
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/newagesmb/.android/build-cache/02f521db2ce922915fbdf62f15b954ad0004d90e/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:16:22-63
+uses-feature#android.hardware.screen.portrait
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:18:5-94
+	android:required
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:18:67-91
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:18:19-66
+uses-feature#android.hardware.screen.landscape
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:19:5-95
+	android:required
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:19:68-92
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:19:19-67
+uses-feature#android.hardware.camera
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:21:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:23:5-24:36
+	android:required
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:23:19-67
+uses-feature#android.hardware.telephony
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:26:9-50
+uses-feature#0x00020000
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:29:5-31:36
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/newagesmb/.android/build-cache/192f4664ab624dfe7992f2691ff5d00174b61e7c/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:30:9-41
+	android:required
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:31:9-33
+application
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:41:5-60:19
+MERGED from [com.android.support:design:25.1.0] /home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] /home/newagesmb/.android/build-cache/6afd1f71014c92029c144a1997318fb084d309f0/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /home/newagesmb/.android/build-cache/b78acda99e21d2dd9c71fd3b3cda5acce4e27262/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/newagesmb/.android/build-cache/789055cd0eef6277d796a443ccd5e6cca2498c34/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/newagesmb/.android/build-cache/02f521db2ce922915fbdf62f15b954ad0004d90e/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/newagesmb/.android/build-cache/356828f584e96002e17990770eacfaade922c012/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/newagesmb/.android/build-cache/accbc83cee1aeee6b3ab76bb99eb32fe2e938a1c/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/newagesmb/.android/build-cache/fff1b67e348a635db0d00f71318eff3b6334c1e4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/newagesmb/.android/build-cache/8f59a141fb6432ae014fdac2bca53355cff3593e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/newagesmb/.android/build-cache/75cc554bf09ad1901c0b0917995674388434f2ed/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/newagesmb/.android/build-cache/10ad35222837f37d270386c6e31cb3b296c6e6ed/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /home/newagesmb/.android/build-cache/5dffbb179a4eb370169ee40b08c3d9eb25de207b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/newagesmb/.android/build-cache/192f4664ab624dfe7992f2691ff5d00174b61e7c/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/newagesmb/.android/build-cache/6a4f69121732398188a91b741765d1ac4d3503ec/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/newagesmb/.android/build-cache/d32f1cbec9ec447d45a6831837cf2c802b58e563/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/newagesmb/.android/build-cache/c764ced4efa16fb22d33e98f052108703ce658c5/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/newagesmb/.android/build-cache/6a8599562eb3d53b42578eb313906062bd5a4764/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/newagesmb/.android/build-cache/d5704e12e500f71f4313bd9e795c09cc1fa986d4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/newagesmb/.android/build-cache/04de9d0abec0464bde3b9ac2128312e0d0277863/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/newagesmb/.android/build-cache/581cc76d5ea41ef1022db4875e0c466eedca6c9a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/newagesmb/.android/build-cache/4312d7135ffd0d9fb37561c29a2d201bf8974ce1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/newagesmb/.android/build-cache/390477e2b3184d9c82237d95cf88c7fbbd2b3352/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:45:9-41
+	android:supportsRtl
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:46:9-35
+	android:allowBackup
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:43:9-35
+	android:icon
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:44:9-43
+	android:theme
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:47:9-40
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:42:9-38
+activity#com.g7.gibaa007.nector.MainActivity
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:50:9-58:20
+	android:label
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:52:13-32
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:51:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:53:13-57:29
+action#android.intent.action.MAIN
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml:56:27-74
+uses-sdk
+INJECTED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.0] /home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/newagesmb/.android/build-cache/9ecd639d38b46658225c7b3dc7702d9a2609ae23/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] /home/newagesmb/.android/build-cache/6afd1f71014c92029c144a1997318fb084d309f0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /home/newagesmb/.android/build-cache/f761f4f7f73bde2f2744d78e3bc92d9dce5a89d4/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /home/newagesmb/.android/build-cache/b78acda99e21d2dd9c71fd3b3cda5acce4e27262/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/newagesmb/.android/build-cache/789055cd0eef6277d796a443ccd5e6cca2498c34/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/newagesmb/.android/build-cache/02f521db2ce922915fbdf62f15b954ad0004d90e/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/newagesmb/.android/build-cache/356828f584e96002e17990770eacfaade922c012/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/newagesmb/.android/build-cache/accbc83cee1aeee6b3ab76bb99eb32fe2e938a1c/output/AndroidManifest.xml:3:5-42
+MERGED from [com.facebook.fresco:fresco:0.14.1] /home/newagesmb/.android/build-cache/b25d0784a270319263f5199312c40de0f7352ab9/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.14.1] /home/newagesmb/.android/build-cache/3811bfa029b59beb75b940b99b6ddcb0cf7cb25d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.14.1] /home/newagesmb/.android/build-cache/909a0f8bb08567ae3289443bd490bf835cff2da4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.14.1] /home/newagesmb/.android/build-cache/07a617970e9ad1a1fd6ef92f43dc7f87b0305c66/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.14.1] /home/newagesmb/.android/build-cache/8669a24eba1cfd7b83b6d4485501155c362c9f3f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] /home/newagesmb/.android/build-cache/eb1f4d05114f5312ff55ea065e1cf187b66f9a8b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/newagesmb/.android/build-cache/fff1b67e348a635db0d00f71318eff3b6334c1e4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/newagesmb/.android/build-cache/8f59a141fb6432ae014fdac2bca53355cff3593e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/newagesmb/.android/build-cache/75cc554bf09ad1901c0b0917995674388434f2ed/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] /home/newagesmb/.android/build-cache/10ad35222837f37d270386c6e31cb3b296c6e6ed/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.1] /home/newagesmb/.android/build-cache/e88eda5b6839cf332259187a32498b5cb9716c9f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /home/newagesmb/.android/build-cache/5dffbb179a4eb370169ee40b08c3d9eb25de207b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/newagesmb/.android/build-cache/192f4664ab624dfe7992f2691ff5d00174b61e7c/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/newagesmb/.android/build-cache/6a4f69121732398188a91b741765d1ac4d3503ec/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/newagesmb/.android/build-cache/d32f1cbec9ec447d45a6831837cf2c802b58e563/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/newagesmb/.android/build-cache/c764ced4efa16fb22d33e98f052108703ce658c5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] /home/newagesmb/.android/build-cache/6a8599562eb3d53b42578eb313906062bd5a4764/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/newagesmb/.android/build-cache/d5704e12e500f71f4313bd9e795c09cc1fa986d4/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/newagesmb/.android/build-cache/04de9d0abec0464bde3b9ac2128312e0d0277863/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/newagesmb/.android/build-cache/581cc76d5ea41ef1022db4875e0c466eedca6c9a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/newagesmb/.android/build-cache/4312d7135ffd0d9fb37561c29a2d201bf8974ce1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/newagesmb/.android/build-cache/390477e2b3184d9c82237d95cf88c7fbbd2b3352/output/AndroidManifest.xml:21:5-23:58
+MERGED from [me.relex:photodraweeview:1.1.2] /home/newagesmb/.android/build-cache/e1660f5dc4ed1230bb3d3e7eb68d302c6a1396f6/output/AndroidManifest.xml:8:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] /home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/newagesmb/AndroidProjects/MyApplication/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/newagesmb/.android/build-cache/02f521db2ce922915fbdf62f15b954ad0004d90e/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/newagesmb/.android/build-cache/02f521db2ce922915fbdf62f15b954ad0004d90e/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/AndroidManifest.xml:32:16-87
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/newagesmb/.android/build-cache/356828f584e96002e17990770eacfaade922c012/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/newagesmb/.android/build-cache/356828f584e96002e17990770eacfaade922c012/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/newagesmb/.android/build-cache/356828f584e96002e17990770eacfaade922c012/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/newagesmb/.android/build-cache/356828f584e96002e17990770eacfaade922c012/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/newagesmb/.android/build-cache/356828f584e96002e17990770eacfaade922c012/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/newagesmb/.android/build-cache/356828f584e96002e17990770eacfaade922c012/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/newagesmb/.android/build-cache/356828f584e96002e17990770eacfaade922c012/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /home/newagesmb/.android/build-cache/accbc83cee1aeee6b3ab76bb99eb32fe2e938a1c/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/newagesmb/.android/build-cache/accbc83cee1aeee6b3ab76bb99eb32fe2e938a1c/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/newagesmb/.android/build-cache/accbc83cee1aeee6b3ab76bb99eb32fe2e938a1c/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/newagesmb/.android/build-cache/accbc83cee1aeee6b3ab76bb99eb32fe2e938a1c/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/newagesmb/.android/build-cache/accbc83cee1aeee6b3ab76bb99eb32fe2e938a1c/output/AndroidManifest.xml:6:79-143
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] /home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/AndroidManifest.xml:45:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/newagesmb/.android/build-cache/fff1b67e348a635db0d00f71318eff3b6334c1e4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/newagesmb/.android/build-cache/8f59a141fb6432ae014fdac2bca53355cff3593e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/newagesmb/.android/build-cache/75cc554bf09ad1901c0b0917995674388434f2ed/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/newagesmb/.android/build-cache/10ad35222837f37d270386c6e31cb3b296c6e6ed/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/newagesmb/.android/build-cache/6a8599562eb3d53b42578eb313906062bd5a4764/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/newagesmb/.android/build-cache/d5704e12e500f71f4313bd9e795c09cc1fa986d4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/newagesmb/.android/build-cache/04de9d0abec0464bde3b9ac2128312e0d0277863/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/newagesmb/.android/build-cache/581cc76d5ea41ef1022db4875e0c466eedca6c9a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/newagesmb/.android/build-cache/4312d7135ffd0d9fb37561c29a2d201bf8974ce1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/newagesmb/.android/build-cache/390477e2b3184d9c82237d95cf88c7fbbd2b3352/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/newagesmb/.android/build-cache/6a4f69121732398188a91b741765d1ac4d3503ec/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/newagesmb/.android/build-cache/6a4f69121732398188a91b741765d1ac4d3503ec/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/newagesmb/.android/build-cache/6a4f69121732398188a91b741765d1ac4d3503ec/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/newagesmb/.android/build-cache/6a4f69121732398188a91b741765d1ac4d3503ec/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/newagesmb/.android/build-cache/c764ced4efa16fb22d33e98f052108703ce658c5/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/newagesmb/.android/build-cache/c764ced4efa16fb22d33e98f052108703ce658c5/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/newagesmb/.android/build-cache/c764ced4efa16fb22d33e98f052108703ce658c5/output/AndroidManifest.xml:20:20-65

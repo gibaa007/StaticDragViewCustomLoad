@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/main_6.xml",
+        "source": "/home/newagesmb/AndroidProjects/MyApplication/app/src/main/res/layout-sw600dp/main_6.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

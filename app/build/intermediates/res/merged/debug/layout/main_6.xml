@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#001F34">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="2dp"
+        android:orientation="vertical"
+        android:scrollbarSize="0dp"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <com.g7.gibaa007.nector.CustomFrameView
+                        android:id="@+id/cfv1"
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:layout_margin="2dp"
+                        android:background="@color/red" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <com.g7.gibaa007.nector.CustomFrameView
+                        android:id="@+id/cfv2"
+                        android:layout_width="match_parent"
+                        android:layout_height="98dp"
+                        android:layout_margin="2dp"
+                        android:background="@color/green" />
+
+                    <com.g7.gibaa007.nector.CustomFrameView
+                        android:id="@+id/cfv3"
+                        android:layout_width="match_parent"
+                        android:layout_height="98dp"
+                        android:layout_margin="2dp"
+                        android:background="@color/Blue" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+            <com.g7.gibaa007.nector.CustomFrameView
+                android:id="@+id/cfv4"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="2dp"
+                android:background="@color/Blue" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <com.g7.gibaa007.nector.CustomFrameView
+                    android:id="@+id/cfv5"
+                    android:layout_width="0dp"
+                    android:layout_height="200dp"
+                    android:layout_margin="2dp"
+                    android:layout_weight="1"
+                    android:background="@color/green" />
+
+                <com.g7.gibaa007.nector.CustomFrameView
+                    android:id="@+id/cfv6"
+                    android:layout_width="0dp"
+                    android:layout_height="200dp"
+                    android:layout_margin="2dp"
+                    android:layout_weight="1"
+                    android:background="@color/Blue" />
+
+            </LinearLayout>
+
+            <com.g7.gibaa007.nector.CustomFrameView
+                android:id="@+id/cfv7"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="@color/Blue" />
+
+            <com.g7.gibaa007.nector.CustomFrameView
+                android:id="@+id/cfv8"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="@color/Blue" />
+
+            <com.g7.gibaa007.nector.CustomFrameView
+                android:id="@+id/cfv9"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="@color/Blue" />
+
+            <com.g7.gibaa007.nector.CustomFrameView
+                android:id="@+id/cfv10"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="@color/Blue" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</RelativeLayout>

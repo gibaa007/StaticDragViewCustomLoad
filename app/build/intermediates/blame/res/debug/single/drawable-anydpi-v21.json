@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_cvc.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-anydpi-v21/ic_cvc.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_cvc_amex.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-anydpi-v21/ic_cvc_amex.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_visa.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-anydpi-v21/ic_visa.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_diners.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-anydpi-v21/ic_diners.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_error.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-anydpi-v21/ic_error.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_error_amex.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-anydpi-v21/ic_error_amex.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_mastercard.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-anydpi-v21/ic_mastercard.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_jcb.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-anydpi-v21/ic_jcb.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_discover.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-anydpi-v21/ic_discover.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_unknown.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-anydpi-v21/ic_unknown.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_amex.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-anydpi-v21/ic_amex.xml"
+    }
+]

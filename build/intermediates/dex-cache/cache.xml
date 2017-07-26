@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3905b305130f693d7eb80b60ba5ab63501abc2c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/1a3c9ee2a4ecb5a6ee51bdcca4ae38d2635d9132/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b57ca74dfb5e3f74fa1b6dd27d73358d66f54e09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/d32f1cbec9ec447d45a6831837cf2c802b58e563/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b72b6fe9e5c2dfe7f830e3ec5d4b56febc0b2418/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/daf5907333c9b88526bfbe5d0caf6bf157ef357c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0192483db64db8b9038a81f54dd42eeaac3a433f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/5dffbb179a4eb370169ee40b08c3d9eb25de207b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e83c4b0c2c8c618e04bc062d4c66133165ef088/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/6a4f69121732398188a91b741765d1ac4d3503ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_620b8431244817fb7af95921b931d6d0fcfe9103/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/02f521db2ce922915fbdf62f15b954ad0004d90e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22e8fb5b176543069fb7c0fa5b510b7143f80862/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/b78acda99e21d2dd9c71fd3b3cda5acce4e27262/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_427ac5ca62a864e8c8152b760e76beb438548ff0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/c764ced4efa16fb22d33e98f052108703ce658c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae69687844ee02f93589ffa2863d8f1756e43d7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79185841b883c81a3dc4f0e96b252c8e48070aac">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_78a3520f2b8746268e7449a099a957f83021da6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/192f4664ab624dfe7992f2691ff5d00174b61e7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_894936afd642010a5cd186092059701eef6a463e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/f761f4f7f73bde2f2744d78e3bc92d9dce5a89d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27ba5b3c3b256f3c18f7e5f2f72cb20555d48edd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/cb77725377c2436eb492d4b6f3869bd6056dbb01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef120a5af8d241da6c89166957db7857da340eb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/356828f584e96002e17990770eacfaade922c012/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d89bc2288ea4f3871973be1a8c7495479b7decd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/newagesmb/.android/build-cache/accbc83cee1aeee6b3ab76bb99eb32fe2e938a1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21195d69078a5c6a9b15c11832d3cb297bbcd0bf/classes.dex" />
+    </item>
+
+</items>

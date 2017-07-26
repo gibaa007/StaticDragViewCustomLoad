@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:gravity="center"
+    android:layout_marginTop="40dp"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="left"
+        android:padding="25dp">
+
+
+        <TextView
+            android:id="@+id/tv_feederName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="Hello Collins!"
+            android:textColor="#FFF"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_feederinfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_feederName"
+            android:layout_below="@+id/tv_feederName"
+            android:layout_marginTop="1dp"
+            android:text="One line description"
+
+            android:textColor="#fff"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_userLogo"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="10dp"
+        android:clickable="true"
+        android:gravity="center"
+        android:src="@android:drawable/ic_menu_search" />
+
+</LinearLayout>

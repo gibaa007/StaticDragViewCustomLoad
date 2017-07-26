@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/newagesmb/.android/build-cache/b78acda99e21d2dd9c71fd3b3cda5acce4e27262/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/newagesmb/.android/build-cache/b78acda99e21d2dd9c71fd3b3cda5acce4e27262/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/newagesmb/.android/build-cache/b78acda99e21d2dd9c71fd3b3cda5acce4e27262/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/newagesmb/.android/build-cache/b78acda99e21d2dd9c71fd3b3cda5acce4e27262/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    }
+]

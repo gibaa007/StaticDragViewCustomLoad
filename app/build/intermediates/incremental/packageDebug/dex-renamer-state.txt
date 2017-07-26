@@ -1,0 +1,7 @@
+#Tue Jul 25 12:47:13 IST 2017
+base.0=/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_78a3520f2b8746268e7449a099a957f83021da6d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3905b305130f693d7eb80b60ba5ab63501abc2c6/classes.dex
+base.1=/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3905b305130f693d7eb80b60ba5ab63501abc2c6
+file.0=/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_78a3520f2b8746268e7449a099a957f83021da6d/classes.dex

@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/main_8.xml",
+        "source": "/home/newagesmb/AndroidProjects/MyApplication/app/src/main/res/layout/main_8.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/home/newagesmb/.android/build-cache/867d79a8c99a89db3c0ddbb78b05e353ff006d46/output/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/home/newagesmb/.android/build-cache/867d79a8c99a89db3c0ddbb78b05e353ff006d46/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/home/newagesmb/.android/build-cache/1eb238c7d60fcad44acaed8329487cb04a773832/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/newagesmb/.android/build-cache/5dffbb179a4eb370169ee40b08c3d9eb25de207b/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/newagesmb/AndroidProjects/MyApplication/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/home/newagesmb/.android/build-cache/1eb238c7d60fcad44acaed8329487cb04a773832/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/main_7.xml",
+        "source": "/home/newagesmb/AndroidProjects/MyApplication/app/src/main/res/layout/main_7.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/home/newagesmb/AndroidProjects/MyApplication/app/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/home/newagesmb/.android/build-cache/1eb238c7d60fcad44acaed8329487cb04a773832/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/home/newagesmb/.android/build-cache/867d79a8c99a89db3c0ddbb78b05e353ff006d46/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/newagesmb/.android/build-cache/5dffbb179a4eb370169ee40b08c3d9eb25de207b/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/home/newagesmb/.android/build-cache/1eb238c7d60fcad44acaed8329487cb04a773832/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/home/newagesmb/.android/build-cache/867d79a8c99a89db3c0ddbb78b05e353ff006d46/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/main_5.xml",
+        "source": "/home/newagesmb/AndroidProjects/MyApplication/app/src/main/res/layout/main_5.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/newagesmb/.android/build-cache/5dffbb179a4eb370169ee40b08c3d9eb25de207b/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/home/newagesmb/.android/build-cache/1eb238c7d60fcad44acaed8329487cb04a773832/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/newagesmb/.android/build-cache/5dffbb179a4eb370169ee40b08c3d9eb25de207b/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/main_4.xml",
+        "source": "/home/newagesmb/AndroidProjects/MyApplication/app/src/main/res/layout/main_4.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/home/newagesmb/.android/build-cache/867d79a8c99a89db3c0ddbb78b05e353ff006d46/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/card_input_widget.xml",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/layout/card_input_widget.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/main_6.xml",
+        "source": "/home/newagesmb/AndroidProjects/MyApplication/app/src/main/res/layout/main_6.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/home/newagesmb/.android/build-cache/867d79a8c99a89db3c0ddbb78b05e353ff006d46/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/home/newagesmb/.android/build-cache/1eb238c7d60fcad44acaed8329487cb04a773832/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/newagesmb/.android/build-cache/29027676cb97a21dd69dc5da650fd2de01843df0/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/newagesmb/.android/build-cache/0777b8700bbae03167e31e9e111b9de4365182dd/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/home/newagesmb/.android/build-cache/8c879d3e4fb5f7b0e25d543e478edd3566d9d24d/output/res/layout/messenger_button_send_blue_large.xml"
+    }
+]

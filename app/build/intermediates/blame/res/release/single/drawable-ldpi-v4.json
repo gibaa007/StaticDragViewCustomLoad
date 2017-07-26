@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_unknown.png",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-ldpi-v4/ic_unknown.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_discover.png",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-ldpi-v4/ic_discover.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_cvc_amex.png",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-ldpi-v4/ic_cvc_amex.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_error_amex.png",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-ldpi-v4/ic_error_amex.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_error.png",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-ldpi-v4/ic_error.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_visa.png",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-ldpi-v4/ic_visa.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_diners.png",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-ldpi-v4/ic_diners.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_mastercard.png",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-ldpi-v4/ic_mastercard.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_jcb.png",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-ldpi-v4/ic_jcb.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_cvc.png",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-ldpi-v4/ic_cvc.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/MyApplication/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_amex.png",
+        "source": "/home/newagesmb/.android/build-cache/f41852069b868dc1e9738bc739320d63d4fcf20f/output/res/drawable-ldpi-v4/ic_amex.png"
+    }
+]

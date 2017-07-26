@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "737993497644",
+    "firebase_url": "https://nector-8a54f.firebaseio.com",
+    "project_id": "nector-8a54f",
+    "storage_bucket": "nector-8a54f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737993497644:android:24d0880313d9eec0",
+        "android_client_info": {
+          "package_name": "com.g7.gibaa007.nector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737993497644-uepmfjrf3pugbm5et06ttb7ao7g5jhq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKXvLEXkcwQs58XNyuA25cnAUTbiSROSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
